@@ -1,4 +1,4 @@
-package Web.tests;
+package web;
 
 import org.junit.jupiter.api.Test;
 
